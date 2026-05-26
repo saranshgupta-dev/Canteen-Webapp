@@ -14,3 +14,6 @@ A simple Java project for managing canteen operations like menu handling, order 
 - spring boot
 - JPA
 - MySQL
+
+Modified by: Saransh Gupta
+This project was updated after forking the repository.
