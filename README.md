@@ -1,7 +1,3 @@
-Modified by: Saransh Gupta
-
-This project was updated after forking the repository.
-
 
 # Canteen Management System
 
