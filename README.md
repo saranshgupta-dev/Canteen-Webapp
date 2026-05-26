@@ -1,3 +1,8 @@
+##Modified by: Saransh Gupta
+
+##This project was updated after forking the repository.
+
+
 # Canteen Management System
 
 A simple Java project for managing canteen operations like menu handling, order management, and billing.
@@ -15,5 +20,4 @@ A simple Java project for managing canteen operations like menu handling, order 
 - JPA
 - MySQL
 
-Modified by: Saransh Gupta
-This project was updated after forking the repository.
+
