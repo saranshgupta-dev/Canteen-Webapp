@@ -17,3 +17,10 @@ A simple Java project for managing canteen operations like menu handling, order 
 - MySQL
 
 
+
+
+## Project Update
+
+This repository was forked from the original project and updated for GitHub fork and push demonstration.
+Modified by: Saransh Gupta
+
